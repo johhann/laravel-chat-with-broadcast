@@ -2,7 +2,7 @@
 
 ## Installation
 
-- git clone https://github.com/johhann/laravel-chat-with-broadcast.git
+- git clone https://github.com/johhann/laravel-chat-with-pusher.git
 
 - cd laravel-chat-with-broadcast
 
